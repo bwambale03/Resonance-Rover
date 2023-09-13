@@ -1,14 +1,6 @@
 # Project Lyrics
 
-Develop an elegant React.js Music Application. 
-
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
-
-# Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
-
+Develop Resonance-Rover  React.js Music Application. 
 
 ## System Requirements
 
@@ -80,9 +72,6 @@ To set up a development environment, please follow these steps:
 
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Issues
-
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/orgs/JavaScript-Mastery-PRO/projects/8). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 
@@ -114,23 +103,19 @@ Here we are going to focus on 2. Creating a Topical Branch:
    
    Use a standard convention for branch names. For example, `<your-name>-dev`. It will be easier to track your pull requests if you use this convention.
    
-   I'm going to create a new branch called `jsm-dev` from the `main` branch and push it to github.
+   I'm going to create a new branch called `branch name` from the `main` branch and push it to github.
 
    ```bash
-    git checkout -b jsm-dev main
-    git push origin jsm-dev
+    git checkout -b "Reasonable-Rover" main
+    git push origin "Resonance-Rover"
    ```
 
 3. To create a pull request, you must have changes committed to your new branch.
 
-4. Go to [Pull Requests](https://github.com/JavaScript-Mastery-PRO/project1_team4_repository/pulls) and click on the `New Pull Request` button.
-
-5. Select the `main` branch as the `base` branch and the `jsm-dev` branch as the `compare` branch.
+5. Select the `main` branch as the `base` branch and the `Resonance-Rover` branch as the `compare` branch.
 
 6. Follow the template and fill in the proper information for the pull request.
 
 7. Click on the `Submit` button.
 
-8. You have successfully created a pull request. Now wait for mentor approval. Once approved, you can merge the pull request.
-
-#
+8. You have successfully created a pull request. Now wait for owner approval. Once approved, you can merge the pull request.
