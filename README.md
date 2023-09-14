@@ -1,2 +1,2 @@
 # Resonance-Rover
-music streaming project
+Music streaming project
