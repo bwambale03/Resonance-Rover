@@ -30,3 +30,4 @@ dist-ssr
 # node
 node_modules/
 .env
+.env.example
